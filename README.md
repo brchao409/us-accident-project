@@ -6,11 +6,11 @@ Repository Contains:
 
 1. Report (.zip)
 
-Add full .zip file to Overleaf to view.
+Add full .zip file to Overleaf to view.  There is also a PDF version attached in this GitHub repository.
 
 2. Raw Dataset (.csv)
 
-CSV is too large to upload to GitHub (> 2 GB), download CSV from link below:
+CSV is too large to upload to GitHub (> 3 GB), download CSV from link below:
 
 Link to dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data 
 
